@@ -1,3 +1,6 @@
-watching the video: https://www.youtube.com/watch?v=GjKQ6V_ViQE
 
-to better understand web scraping in depth.
+following along and watching the video: https://www.youtube.com/watch?v=GjKQ6V_ViQE
+
+Goal: to better understand web scraping in depth.
+
+reading: https://automatetheboringstuff.com/2e/chapter12/
